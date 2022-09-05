@@ -1,0 +1,2 @@
+#!/bin/bas
+echo $word | tr Ac Ze
